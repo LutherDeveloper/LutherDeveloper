@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**LutherDeveloper/LutherDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** interested in software development, web technologies, and cybersecurity.
 
-Here are some ideas to get you started:
+I enjoy building applications, exploring new technologies, and solving technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always learning, building, and improving my skills.
+
+⭐ Feel free to connect with me!
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation">
+
+Thanks for visiting my profile! 💗
+
+### About Me
+
+- 💻 Full-Stack Development
+- ⚙️ Frontend & Backend Engineering
+- 🔐 Cybersecurity
+- 🌱 Always learning new technologies
+
+### Connect With Me
+
+[GitHub](https://github.com/USERNAME) · [LinkedIn](https://www.linkedin.com/in/USERNAME)
+
+---
+
+*Building, learning, and growing through technology.*
