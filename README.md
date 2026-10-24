@@ -21,7 +21,7 @@ Thanks for visiting my profile! 💗
 
 ### Connect With Me
 
-[GitHub](https://github.com/USERNAME) · [LinkedIn](https://www.linkedin.com/in/USERNAME)
+[GitHub](https://github.com/LutherDeveloper) · [LinkedIn](https://www.linkedin.com/in/luther-jecky-natanael-malau-634421440)
 
 ---
 
