@@ -1,73 +1,55 @@
 <div align="center">
 
-# LutherDeveloper
+# LUTHER MALAU
 
-**Software Developer | Full-Stack Development | Cybersecurity**
+**Software Development · Full-Stack Engineering · Cybersecurity**
 
-Building software, solving problems, and learning through real-world projects.
+Building applications. Exploring technology. Writing code.
 
 <br>
 
 <a href="https://github.com/LutherDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-LutherDeveloper-181717?style=flat-square&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/luther-jecky-natanael-malau-634421440/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-### About
+### `01` — About Me
 
-I'm a software developer interested in building applications, understanding how systems work, and exploring different areas of technology.
+I'm interested in software engineering, full-stack development, and cybersecurity. I enjoy building projects, exploring different technologies, and improving my skills through hands-on development.
 
-My main interests are full-stack development, software engineering, and cybersecurity. I enjoy working on projects that help me develop practical skills and understand the process behind building reliable software.
-
-Currently focused on learning, building, and improving through hands-on experience.
-
-### Technologies
-
-**Languages & Development**
+### `02` — Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,mysql" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,html,css,mysql,git,github,vscode&theme=dark" alt="Technologies">
 </p>
 
-**Tools**
+### `03` — Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Development Tools">
-</p>
+Explore my work and development projects.
 
-### Selected Projects
+<a href="https://github.com/LutherDeveloper?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
 
-A collection of projects I've worked on while exploring software development and putting my skills into practice.
+### `04` — GitHub Overview
 
-- **Web Development** — Building responsive interfaces and interactive web applications.
-- **Java Development** — Practicing object-oriented programming and application design.
-- **Database Projects** — Working with SQL, relational databases, and data management.
-
-Explore my repositories to see the code and implementation.
-
-<p>
-  <a href="https://github.com/LutherDeveloper?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
-  </a>
-</p>
-
-### GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LutherDeveloper&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LutherDeveloper&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LutherDeveloper&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LutherDeveloper&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages">
+</div>
 
 ---
 
 <div align="center">
 
-*Learning by building. Improving with every project.*
+<a href="https://github.com/LutherDeveloper">GitHub</a> · <a href="https://www.linkedin.com/in/luther-jecky-natanael-malau-634421440/">LinkedIn</a>
+
+<sub>Code, learn, build, repeat.</sub>
 
 </div>
