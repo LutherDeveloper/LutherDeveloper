@@ -1,85 +1,42 @@
-<div align="center">
+<h1 align="center">Hi, I'm Luther 👋</h1>
 
-# 𝙃𝙞, 𝙄'𝙢 𝙇𝙪𝙩𝙝𝙚𝙧 𝙈𝙖𝙡𝙖𝙪 👋
+<p align="center">
+  Software Developer · Full-Stack Development · Cybersecurity
+</p>
 
-### `Full-Stack Developer` · `Software Development` · `Cybersecurity`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Frontend+%26+Backend+Engineering;Exploring+Cybersecurity;Turning+ideas+into+reality." alt="Typing SVG" />
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation">
-
-</div>
+<p align="center">
+  Building applications, exploring new technologies, and improving through real projects.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### About Me
 
-I'm a developer passionate about building software, developing modern web applications, and exploring cybersecurity.
+- Interested in software development and full-stack engineering.
+- Building projects to improve my skills in frontend and backend development.
+- Exploring cybersecurity and application security.
+- Always learning by working on practical projects.
 
-I enjoy solving problems, experimenting with new technologies, and continuously improving my technical skills.
+### Tech Stack
 
-- 💻 Focused on **Full-Stack Development**
-- ⚙️ Interested in **Frontend & Backend Engineering**
-- 🔐 Exploring **Cybersecurity**
-- 🌱 Always learning and improving
-- 🌍 Interested in connecting with developers worldwide
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,cpp,mysql,git,github,vscode" />
+</p>
 
----
+### GitHub Stats
 
-## 🛠️ Technologies & Tools
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-<div align="center">
+### Connect
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,python,php,java" alt="Programming languages" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend technologies" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,laravel" alt="Backend technologies" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vscode" alt="Database and development tools" />
-
-</div>
-
----
-
-## 🎯 What I'm Interested In
-
-```text
-Software Engineering  ██████████
-Full-Stack Development ██████████
-Backend Engineering   █████████░
-Cybersecurity         ████████░░
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/LutherDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/luther-jecky-natanael-malau-634421440/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br><br>
-
-### *"Building today. Improving tomorrow."*
-
-</div>
+<p>
+  <a href="https://github.com/LutherDeveloper">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luther-jecky-natanael-malau-634421440/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
